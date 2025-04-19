@@ -41,7 +41,7 @@ This project includes a variety of small tools for image processing tasks. Each 
 - **Calibration Tool**  
   Set image scale for real-world measurements.  
   ![Cal](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/Cal.JPG)  
-  ![Cal2](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/Ca2.JPG)
+  ![Cal2](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/Cal2.JPG)
 
 - **MTF (Modulation Transfer Function)**  
   Evaluate image sharpness using MTF analysis.  
