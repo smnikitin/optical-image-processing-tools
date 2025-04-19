@@ -62,8 +62,8 @@ This project includes a variety of small tools for image processing tasks. Each 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/smnikitin/img_proc_tools.git
-cd img_proc_tools
+git clone https://github.com/smnikitin/optical-image-processing-tools.git
+cd optical-image-processing-tools
 ```
 
 2. Install the required Python libraries:
