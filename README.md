@@ -28,24 +28,24 @@ This project includes a variety of small tools for image processing tasks. Each 
 
 - **Cross-section Plotting**  
   Plot intensity values across a specific line of a grayscale image.  
-  ![Cross-section](https://github.com/smnikitin/img_proc_tools/blob/main/tools_image/cross-section.JPG)
+  ![Cross-section](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/cross-section.JPG)
 
 - **Linear Regression (lin_reg)**  
   Analyze trends and apply linear regression to image-based data.  
-  ![Linear Regression](https://github.com/smnikitin/img_proc_tools/blob/main/tools_image/Lin_reg.JPG)
+  ![Linear Regression](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/Lin_reg.JPG)
 
 - **FFT (Fast Fourier Transform)**  
   Visualize the frequency components of an image.  
-  ![FFT](https://github.com/smnikitin/img_proc_tools/blob/main/tools_image/FFT.JPG)
+  ![FFT](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/FFT.JPG)
 
 - **Calibration Tool**  
   Set image scale for real-world measurements.  
-  ![Cal](https://github.com/smnikitin/img_proc_tools/blob/main/tools_image/Cal.JPG)  
-  ![Cal2](https://github.com/smnikitin/img_proc_tools/blob/main/tools_image/Cal2.JPG)
+  ![Cal](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/Cal.JPG)  
+  ![Cal2](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/Ca2.JPG)
 
 - **MTF (Modulation Transfer Function)**  
   Evaluate image sharpness using MTF analysis.  
-  ![MTF](https://github.com/smnikitin/img_proc_tools/blob/main/tools_image/MTF.JPG)
+  ![MTF](https://github.com/smnikitin/optical-image-processing-tools/blob/main/tools_image/MTF.JPG)
 
 ---
 
